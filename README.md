@@ -1,7 +1,6 @@
-#  GGS_MAML_DL(To be updated)
-PyTorch implementation of the regression and rank-one matrix factorization experiments from the paper:
-
-Multi-Step Model-Agnostic Meta-Learning: Convergence and Improved Algorithms
+#  GGS_MAML_DL
+PyTorch implementation of the regression and rank-one matrix factorization experiments for the paper:
+[Multi-Step Model-Agnostic Meta-Learning: Convergence and Improved Algorithms](https://arxiv.org/pdf/2002.07836v1.pdf)
 
 MAML and First-order MAML(FOMAML) code part is based on the [code](https://github.com/dragen1860/MAML-Pytorch)
 
